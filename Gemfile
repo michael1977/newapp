@@ -13,6 +13,8 @@ gem 'devise', '~> 3.1.1' #this is the latest version and has been updated since 
 gem 'paperclip', '~> 3.0'
 gem "aws-sdk", "~> 1.31.3"
 gem "masonry-rails", "~> 0.2.1"
+gem "will_paginate", "~> 3.0.5"
+gem "will_paginate-bootstrap"
 
 
 group :development, :test do
