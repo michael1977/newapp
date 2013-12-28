@@ -10,6 +10,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.0.2.0' 
 gem 'devise', '~> 3.1.1' #this is the latest version and has been updated since the video
 gem 'paperclip', '~> 3.0'
+gem "aws-sdk", "~> 1.31.3"
 
 group :development, :test do
 	gem 'sqlite3'
